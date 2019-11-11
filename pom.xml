@@ -11,7 +11,7 @@
     <version>2.0.0</version>
   </parent>
   <description>NDVI anomalies of growing season per parcel </description>
-  <version>0.2-SNAPSHOT</version>
+  <version>0.2</version>
   <properties>
     <summary>NDVI anomalies of growing season per parcel</summary>
     <description>NDVI anomalies of growing season per parcel </description>
